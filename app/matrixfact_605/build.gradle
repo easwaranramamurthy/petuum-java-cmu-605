@@ -1,4 +1,5 @@
 apply plugin:'application'
+apply plugin: 'eclipse'
 mainClassName = "org.petuum.app.matrixfact.MatrixFact"
 
 // create a single Jar with all dependencies

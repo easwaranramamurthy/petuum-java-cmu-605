@@ -1,4 +1,5 @@
 apply plugin:'application'
+apply plugin: 'eclipse'
 mainClassName = "org.petuum.app.hello_ssp.HelloSSP"
 
 // create a single Jar with all dependencies
